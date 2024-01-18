@@ -33,7 +33,6 @@ function verificarChute() {
         tentativas++;
         limparCampo();
     }
-    console.log(chute == numeroSecreto);
 
 }
 function gerarNumeroAleatorio () {
